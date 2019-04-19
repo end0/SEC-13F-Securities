@@ -22,7 +22,8 @@ Just click on the link for the type of file for the period you need.
 
 Title|Quarter|PDF|CSV|XLSX
 ---|---|---|---|---
-**SEC Form 13F**|**2018Q4**|[**PDF**](pdf/13flist2018q4.pdf)|[**CSV**](data/sample/csv/13flist2018q4.csv)|[**XLSX**](data/sample/xlsx/13flist2018q4.xlsx)
+**SEC Form 13F**|**2019Q1**|[**PDF**](pdf/13flist2019q1.pdf)|[**CSV**](data/sample/csv/13flist2019q1.csv)|[**XLSX**](data/sample/xlsx/13flist2019q1.xlsx)
+SEC Form 13F|2018Q4|[PDF](pdf/13flist2018q4.pdf)|[CSV](data/sample/csv/13flist2018q4.csv)|[XLSX](data/sample/xlsx/13flist2018q4.xlsx)
 SEC Form 13F|2018Q3|[PDF](pdf/13flist2018q3.pdf)|[CSV](data/sample/csv/13flist2018q3.csv)|[XLSX](data/sample/xlsx/13flist2018q3.xlsx)
 SEC Form 13F|2018Q2|[PDF](pdf/13flist2018q2.pdf)|[CSV](data/sample/csv/13flist2018q2.csv)|[XLSX](data/sample/xlsx/13flist2018q2.xlsx)
 SEC Form 13F|2018Q1|[PDF](pdf/13flist2018q1.pdf)|[CSV](data/sample/csv/13flist2018q1.csv)|[XLSX](data/sample/xlsx/13flist2018q1.xlsx)
